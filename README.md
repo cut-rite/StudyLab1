@@ -1,3 +1,3 @@
 # StudyLab1
 Test for GitHub Project
-Happy Tuesday
+we r doing the github. success!
